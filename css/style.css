@@ -17,14 +17,14 @@ body {
 	border: 0;
 }
 #logo-img {
-	background: url(/images/555.png) no-repeat;
+	background: url(555.png) no-repeat;
 	/*background-image: url("images/555.png") no-repeat;*/
 	width: 108px;
 	height: 70px;
 	margin: 10px 15px 10px 0;
 }
 #logo-img1 {
-	background: url(/images/555.png) no-repeat;
+	background: url(555.png) no-repeat;
 	width: 30px;
 	height: 30px;
 	/*margin: 10px 15px 10px 0;*/
@@ -296,7 +296,7 @@ footer {
 @media (min-width: 992px) and (max-width: 1199px) {
   /* Header */
   #logo-img {
-    background: url(/images/555.png) no-repeat;
+    background: url(555.png) no-repeat;
     width: 110px;
     height: 80px;
     margin: 5px 5px 5px 0;
